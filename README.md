@@ -19,3 +19,5 @@ The proposal can be viewed by clicking on the `eth-ord-scheme-openwashdata-propo
 
 This work is licensed under a [CC-BY-4.0 license](LICENSE.md). For attribution, please cite this work as:
 
+Schöbitz, L., Bannert, M., & Tilley, E. (2022). Global Health Engineering - ETH ORD Scheme Proposal: openwashdata (Version 0.0.1) 
+
