@@ -19,6 +19,7 @@ author:
 format: 
   docx: default
   gfm: default
+citation: true
 bibliography: prop-eth-open-science.bib
 csl: vancouver-brackets-no-et-al.csl
 ---
