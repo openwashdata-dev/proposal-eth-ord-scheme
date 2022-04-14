@@ -1,15 +1,12 @@
-# Proposals
+# README
 
-This repository contains proposals written by the [Global Health Engineering](https://github.com/Global-Health-Engineering/) group at ETH Zurich. Our goal with sharing these proposals is to contribute our part in following Open Science principles by allowing others to reuse and adapt our work. We also hope to increase the potential to find collaborators that are interested to work on these proposals with us. 
+This repository contains a proposal prepared by the [Global Health Engineering](https://github.com/Global-Health-Engineering/) group. Our goals with sharing our grant proposals are: (1) to allow others to reuse and adapt them, (2) to contribute our part to following Open Science principles, (3) and to identify potential collaborators who are interested to work with us on this in the future.
 
-# Access
+## ETH ORD Scheme - Measure 1 - Explore Call
 
-Each proposal is contained within it's own folder. To view the proposal, click on the respective folder or use hyperlink from the table below.
+This proposal was prepared for the [ETH ORD Scheme 1st Explore Call](https://ethrat.ch/en/information-for-ethz-and-epfl-applicants/).
 
-| Job description                                              | Due date |
-|:-------------------------------------------------------------|:-----------|
-| [ETH ORD Scheme - Measure 1](01-eth-ord-scheme-measure1/eth-ord-scheme-openwashdata-proposal.md) | 2022-04-14 |
+## Citation
 
-# License
+This work is licensed under a [CC-BY-4.0 license](LICENSE.md). For attribution, please cite this work as:
 
-This work is licensed under a [CC-BY-4.0 license](LICENSE.md).
