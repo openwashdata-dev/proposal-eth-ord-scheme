@@ -6,6 +6,15 @@ This repository contains a proposal prepared by the [Global Health Engineering](
 
 This proposal was prepared for the [ETH ORD Scheme 1st Explore Call](https://ethrat.ch/en/information-for-ethz-and-epfl-applicants/).
 
+# Access
+
+The proposal can be viewed by clicking on the `eth-ord-scheme-openwashdata-proposal.md` file or by using the hyperlink from the table below.
+
+| Proposal                                             | Submission date |
+|:-------------------------------------------------------------|:-----------|
+| [ETH ORD Scheme - openwashdata](eth-ord-scheme-openwashdata-proposal.md) | 2021-07-01 |
+
+
 ## Citation
 
 This work is licensed under a [CC-BY-4.0 license](LICENSE.md). For attribution, please cite this work as:
