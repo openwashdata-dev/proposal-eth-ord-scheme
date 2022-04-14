@@ -8,7 +8,7 @@ Each proposal is contained within it's own folder. To view the proposal, click o
 
 | Job description                                              | Due date |
 |:-------------------------------------------------------------|:-----------|
-| [ETH ORD Scheme - Measure 1](01-eth-ord-scheme-measure1/eth-ord-program-openwashdata-proposal.md) | 2022-04-14 |
+| [ETH ORD Scheme - Measure 1](01-eth-ord-scheme-measure1/eth-ord-scheme-openwashdata-proposal.md) | 2022-04-14 |
 
 # License
 
