@@ -12,7 +12,7 @@ The proposal can be viewed by clicking on the `eth-ord-scheme-openwashdata-propo
 
 | Proposal                                             | Submission date |
 |:-------------------------------------------------------------|:-----------|
-| [ETH ORD Scheme - openwashdata](eth-ord-scheme-openwashdata-proposal.md) | 2021-07-01 |
+| [ETH ORD Scheme - openwashdata](eth-ord-scheme-openwashdata-proposal.md) | 2022-04-14 |
 
 
 ## Citation
