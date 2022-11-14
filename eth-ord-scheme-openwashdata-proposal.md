@@ -72,8 +72,7 @@ researchers applying ORD practices and partners that are not \[6\].
 ## Data Science @ Global Health Engineering
 
 One of the first people hired by Global Health Engineering once the
-position was created, was an Open Science Specialist. \[TODO: publish
-Job Description on <https://github.com/Global-Health-Engineering/>\]. As
+position was created, was an [Open Science Specialist](https://github.com/Global-Health-Engineering/job-descriptions/blob/main/open-science-specialist/README.md). As
 a natural extension, we designed and now offer an undergraduate course
 for engineers which is the first of its kind at ETH: Research Beyond the
 Lab – Open Science and Research Methods for a Global Engineer
