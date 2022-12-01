@@ -1,3 +1,7 @@
+ETH ORD Program
+================
+Lars SchöbitzProf. Dr. Elizabeth TilleyDr. Matthias Bannert
+
 # Proposal full title
 
 Open WASH data by building Open Science Competencies and Community
@@ -72,10 +76,11 @@ researchers applying ORD practices and partners that are not \[6\].
 ## Data Science @ Global Health Engineering
 
 One of the first people hired by Global Health Engineering once the
-position was created, was an [Open Science Specialist](https://github.com/Global-Health-Engineering/job-descriptions/blob/main/open-science-specialist/README.md). As
-a natural extension, we designed and now offer an undergraduate course
-for engineers which is the first of its kind at ETH: Research Beyond the
-Lab – Open Science and Research Methods for a Global Engineer
+position was created, was an [Open Science
+Specialist](https://github.com/Global-Health-Engineering/job-descriptions/blob/main/open-science-specialist/README.md).
+As a natural extension, we designed and now offer an undergraduate
+course for engineers which is the first of its kind at ETH: Research
+Beyond the Lab – Open Science and Research Methods for a Global Engineer
 (141-8102-00L, FS2022) \[7\]. In the first half of the course we teach
 the methods required to conduct real-word data collection and in
 parallel, we teach students about open science principles with a focus
@@ -154,9 +159,9 @@ elaborated in detail below.
 
 <div>
 
-> **Goal: Prototype ORD tools at ETH for teaching and collaboration that
-> can sustainably run and be used beyond the scope of the Explore
-> projects funding**
+> **Goal: The Goal of WP0 is to prototype a technical foundation for the
+> ORD toolchain at ETH in a a way that allows teaching and scientific
+> collaboration to continue beyond the explore project’s funding.**
 >
 > **RQ 0.1:** What are the costs and requirements for ORD tools to be
 > hosted and maintained within the ETH domain?
@@ -174,25 +179,34 @@ elaborated in detail below.
 
 </div>
 
-The goal of this WP is to prototype ORD tools for teaching and
-collaboration. We will use open source infrastructure that is commonly
-applied throughout modern data science and statistics classes \[9\],
-including: R and RStudio Server for programming; Quarto scientific and
-technical publishing system for authoring \[10\]; Git and GitHub for
-version control and collaboration; Matrix protocol for real-time
-communication ; Mailing list server for regular updates directly to
-email.
+During our upstream working package 0, we address costs and requirements
+for hosting a full fledged ORD process within the ETH domain. In the
+process, we will collaborate with ETH IT services to establish an open
+source backed ecosystem for a milestone of 50 learners. Infrastructure
+automation, e.g., through ansible automation platform is crucial to our
+approach: Scripted setups allow to reproduce our setup, disseminate our
+learnings and to foster ORD practices within ETH and beyond. Our work in
+WP0 is not limited to computing and version control infrastructure, we
+also plan to invest into communication tools that suit our approach of
+interactive collaboration in-person and online.
 
-These tools are not only necessary for teaching, collaboration, and
-community building for this project proposal, but are tools that we use
-for teaching purposes at ETH, and for collaboration within our research
-group. For long-term sustainability of this project, we need this
-infrastructure to be hosted and maintained with ETH on self-hosted
-servers. This work package and our learning will contribute to the
-greater understanding of how open source software can be integrated into
-the ETH infrastructure environment. WP0 will start before the other WPs,
-but will also continue in parallel as the needs and challenges of the
-growing community emerge and are accounted for.
+Based on our experience and previous work that lead to our submission,
+we intend to use open source software that is commonly applied
+throughout modern data science and statistics classes \[9\], including:
+R and RStudio Server for programming; Quarto scientific and technical
+publishing system for authoring \[10\]; Git and GitHub for version
+control and collaboration; Matrix protocol for real-time communication ;
+Mailing list server for regular updates directly to email.
+
+Together with ETH IT services we will not only evaluate the best options
+to self-host our current explore project, but also make sure our virtual
+infrastructure can be extended or migrated to other providers easily.
+The above ecosystem will be used for teaching, collaboration and
+community building beyond this project and contribute to the greater
+understanding of how open source software can be integrated into ETH
+infrastructure, teaching and learning. Given the heterogeneity of the
+WASH community, a non-propietary is crucial for global adaption of a
+technical framework.
 
 ## WP1: Mobilize Community
 
